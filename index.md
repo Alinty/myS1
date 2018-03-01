@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊……我是ffffff
 
 You can use the [editor on GitHub](https://github.com/Alinty/myS1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
